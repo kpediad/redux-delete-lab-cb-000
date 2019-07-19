@@ -4,7 +4,7 @@ import BandInput from './BandInput';
 import { connect } from 'react-redux'
 
 class BandsContainer extends Component {
-  
+
   render() {
     return (
       <div>
